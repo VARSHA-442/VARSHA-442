@@ -21,11 +21,11 @@ Here are some ideas to get you started:
   <p>🌱 I’m final‑year B.Tech (AIML) student at Mohan Babu University</p>
   <p>💞️ I’m looking to collaborate on AIML projects</p>
   <p>📫 Reach me: <a href="mailto:karadavarsha222@gmail.com">karadavarsha222@gmail.com</a></p>
-  <p>
-    <a href="https://portfolio-mgvm.vercel.app/"><strong>🌐 Portfolio</strong></a> · 
-    <a href="https://www.linkedin.com/in/varsha-karada"><strong>👤 LinkedIn</strong></a> · 
-    <a href="https://leetcode.com/u/KPavani9/"><strong>🎯 LeetCode</strong></a>
-  </p>
+  <p><a href="https://portfolio-mgvm.vercel.app/"><strong>🌐 Portfolio</strong></a></p>
+  <p><a href="https://www.linkedin.com/in/varsha-karada"><strong>👤 LinkedIn</strong></a></p> 
+  <p><a href="https://leetcode.com/u/KPavani9/"><strong>🎯 LeetCode</strong></a>   </p> 
+    
+  
 </div>
 
 ---
