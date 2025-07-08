@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Venu-16&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venu-16&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) :contentReference[oaicite:1]{index=1}
 
 ---
