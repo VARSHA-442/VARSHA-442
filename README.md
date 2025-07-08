@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- HEADER -->
 <div align="center">
- <h1>👋 Hi, I’m Varsha Karada</h1>
+ <p>👋 Hi, I’m Varsha Karada</p>
   <p>👀 I’m interested in Artificial Intelligence and Machine Learning</p>
   <p>🌱 I’m final‑year B.Tech (AIML) student at Mohan Babu University</p>
   <p>💞️ I’m looking to collaborate on AIML projects</p>
@@ -28,34 +28,24 @@ Here are some ideas to get you started:
   
 </div>
 
----
-
-
-
-
----
-
-
-
----
 
 ### 📊 GitHub Stats  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
----
 
-### 🔥 Streak & Trophy  
+
+### 🔥 Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical)   
 
 
----
+
 
 ### 📌 Pinned Projects
 - [AI‑Health‑Bot‑Medical‑NFTs‑on‑Aptos](https://github.com/Venu-16/AI-Health-Bot-Medical-NFTs-on-Aptos) – Python
 - [portfolio](https://github.com/VARSHA-442/portfolio) – JavaScript
 - [Customer‑Churn‑Prediction](https://github.com/VARSHA-442/Churn) – Jupyter Notebook
 
----
+
 
 
