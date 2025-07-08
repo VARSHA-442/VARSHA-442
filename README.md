@@ -18,14 +18,15 @@
 ---
 <p align="center">
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   -->
-<img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical" alt="GitHub Stats"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=onedark" alt="GitHub Stats"/>
 </p>
 
 
 <p align="center">
 <!-- [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical" alt="Top Languages"/>
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical" alt="Top Languages"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=onedark" alt="Top Languages"/>
 
 </p>
 
