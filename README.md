@@ -1,7 +1,7 @@
 
 
 
-
+  <div align="left">
  👋 Hi, I’m Varsha Karada
  👀 I’m interested in Artificial Intelligence and Machine Learning
  🌱 I’m final‑year B.Tech (AIML) student at Mohan Babu University</p>
@@ -10,22 +10,25 @@
  <a href="https://portfolio-mgvm.vercel.app/"><strong>🌐 Portfolio</strong></a>
  <a href="https://www.linkedin.com/in/varsha-karada"><strong>👤 LinkedIn</strong></a>
  <a href="https://leetcode.com/u/KPavani9/"><strong>🎯 LeetCode</strong></a>    
-    
+ </div>
   
 
 
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats 
+<p align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+</p>
 
-
+<p align="center">
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
+</p>
 
 
 ### 🔥 Streak  
+<p align="center">
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical)   
-
+</p>
 
 
 
