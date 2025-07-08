@@ -2,16 +2,12 @@
 
 
 <div align="left">
-
 <p>👋 Hi, I’m Varsha Karada</p>
-<p>👀 I’m interested in Artificial Intelligence and Machine Learning</p>
 <p>🌱 I’m a final‑year B.Tech (AIML) student at Mohan Babu University</p>
-<p>💞️ I’m looking to collaborate on AIML projects</p>
 <p>📫 Reach me: <a href="mailto:karadavarsha222@gmail.com">karadavarsha222@gmail.com</a></p>
 <p><a href="https://portfolio-mgvm.vercel.app/"><strong>🌐 Portfolio</strong></a></p>
 <p><a href="https://www.linkedin.com/in/varsha-karada"><strong>👤 LinkedIn</strong></a></p>
 <p><a href="https://leetcode.com/u/KPavani9/"><strong>🎯 LeetCode</strong></a></p>
-
 </div>
 
   
@@ -19,6 +15,7 @@
 
 
 ### 📊 GitHub Stats 
+---
 <p align="center">
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   -->
 <img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -40,10 +37,6 @@
 
 
 
-### 📌 Pinned Projects
-- [AI‑Health‑Bot‑Medical‑NFTs‑on‑Aptos](https://github.com/Venu-16/AI-Health-Bot-Medical-NFTs-on-Aptos) – Python
-- [portfolio](https://github.com/VARSHA-442/portfolio) – JavaScript
-- [Customer‑Churn‑Prediction](https://github.com/VARSHA-442/Churn) – Jupyter Notebook
 
 
 
