@@ -1,16 +1,19 @@
 
 
 
-  <div align="left">
- 👋 Hi, I’m Varsha Karada
- 👀 I’m interested in Artificial Intelligence and Machine Learning
- 🌱 I’m final‑year B.Tech (AIML) student at Mohan Babu University</p>
- 💞️ I’m looking to collaborate on AIML projects
- 📫 Reach me: <a href="mailto:karadavarsha222@gmail.com">karadavarsha222@gmail.com</a>
- <a href="https://portfolio-mgvm.vercel.app/"><strong>🌐 Portfolio</strong></a>
- <a href="https://www.linkedin.com/in/varsha-karada"><strong>👤 LinkedIn</strong></a>
- <a href="https://leetcode.com/u/KPavani9/"><strong>🎯 LeetCode</strong></a>    
- </div>
+<div align="left">
+
+<p>👋 Hi, I’m Varsha Karada</p>
+<p>👀 I’m interested in Artificial Intelligence and Machine Learning</p>
+<p>🌱 I’m a final‑year B.Tech (AIML) student at Mohan Babu University</p>
+<p>💞️ I’m looking to collaborate on AIML projects</p>
+<p>📫 Reach me: <a href="mailto:karadavarsha222@gmail.com">karadavarsha222@gmail.com</a></p>
+<p><a href="https://portfolio-mgvm.vercel.app/"><strong>🌐 Portfolio</strong></a></p>
+<p><a href="https://www.linkedin.com/in/varsha-karada"><strong>👤 LinkedIn</strong></a></p>
+<p><a href="https://leetcode.com/u/KPavani9/"><strong>🎯 LeetCode</strong></a></p>
+
+</div>
+
   
 
 
