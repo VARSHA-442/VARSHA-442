@@ -20,9 +20,11 @@
 <!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   -->
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=onedark" alt="GitHub Stats"/>  -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&border_color=30363d" alt="GitHub Stats"/> -->
-<img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=7d4aea&bg_color=0d1117&border_color=30363d" alt="GitHub Stats"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=7d4aea&bg_color=0d1117&border_color=30363d" alt="GitHub Stats"/> -->
 
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=7d4aea&bg_color=0d1117&border_color=30363d&hide=prs,issues" alt="GitHub Stats"/>
 
 <p align="center">
 <!-- [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  -->
