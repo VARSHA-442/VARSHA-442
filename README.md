@@ -32,7 +32,10 @@
 
 <p align="center">
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical)    -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical" alt="Streak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical" alt="Streak"/>
+</p> -->
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=onedark" alt="Streak"/>
 </p>
 
 
