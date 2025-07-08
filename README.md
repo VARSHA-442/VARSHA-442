@@ -17,17 +17,22 @@
 
 ### 📊 GitHub Stats 
 <p align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   -->
+<img src="https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical" alt="Top Languages"/>
+
+
 </p>
 
 
 ### 🔥 Streak  
 <p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical)   
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical)    -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical" alt="Streak"/>
 </p>
 
 
