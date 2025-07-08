@@ -1,7 +1,7 @@
 
 
 
-<div align="left">
+<div align="left style="line-height: 1.3;">
 <p>👋 Hi, I’m Varsha Karada</p>
 <p>🌱 I’m a final‑year B.Tech (AIML) student at Mohan Babu University</p>
 <p>📫 Reach me: <a href="mailto:karadavarsha222@gmail.com">karadavarsha222@gmail.com</a></p>
