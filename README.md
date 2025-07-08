@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **VARSHA-442/VARSHA-442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🔗 Connect with me
+
 
 
 ---
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### 🔥 Streak & Trophy  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VARSHA-442&theme=radical)   
-![Trophy](https://github-profile-trophy.vercel.app/?username=VARSHA-442&theme=onedark) 
+
 
 ---
 
@@ -58,7 +58,4 @@ Here are some ideas to get you started:
 
 ---
 
-### 🎯 Currently
-- 🎓 Final‑year AIML student @ Mohan Babu University  
-- 🚀 Open to collaboration on AI & ML driven projects  
-- 📚 Learning about Deep Learning, NLP & Reinforcement Learning
+
