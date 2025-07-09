@@ -4,8 +4,8 @@
 - 📫 How to reach me : Email: *karadavarsha222@gmail.com*
 - 🌐 personal portfolio : [Link](https://portfolio-mgvm.vercel.app/)
 - 👤 LinkedIn Profile : [Link](https://www.linkedin.com/in/varsha-karada/)
-- 🎯 LeetCode Profile : [Link](https://leetcode.com/u/KPavani9/)
 
+![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)  
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)  
 
