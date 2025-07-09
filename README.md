@@ -5,7 +5,8 @@
 - 🌐 personal portfolio : [Link](https://portfolio-mgvm.vercel.app/)
 - 👤 LinkedIn Profile : [Link](https://www.linkedin.com/in/varsha-karada/)
 
-![Varsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&show_icons=true&theme=radical)  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=VARSHA-442&title_color=FFD700&icon_color=4ADE80)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VARSHA-442&layout=compact&theme=radical)  
 
