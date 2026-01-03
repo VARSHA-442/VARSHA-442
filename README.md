@@ -51,6 +51,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
 
-## Watch my contribution graph get eaten by a snake
+
+
+## 🐍 Watch my contribution graph get eaten by a snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/VARSHA-442/VARSHA-442/output/github-contribution-grid-snake.svg)
+
