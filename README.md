@@ -56,4 +56,3 @@
 ## 🐍 Watch my contribution graph get eaten by a snake
 
 ![GitHub Snake](https://raw.githubusercontent.com/VARSHA-442/VARSHA-442/output/github-contribution-grid-snake.svg)
-
